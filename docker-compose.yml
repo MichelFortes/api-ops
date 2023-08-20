@@ -3,7 +3,7 @@ version: "3"
 services:
 
   krakend:
-    container_name: krakend
+    # container_name: krakend
     ports:
       - "80:8080"
     volumes:
