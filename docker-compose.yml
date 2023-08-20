@@ -16,7 +16,7 @@ services:
         failure_action: rollback
 
   httpbin:
-    container_name: httpbin
+    #container_name: httpbin
     image: kong/httpbin
     
 
