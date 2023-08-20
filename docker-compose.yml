@@ -15,9 +15,9 @@ services:
     #     delay: 20s
     #     failure_action: rollback
 
-  httpbin:
+  # httpbin:
     # container_name: httpbin
-    image: kong/httpbin
+    # image: kong/httpbin
     
 
 #networks:
